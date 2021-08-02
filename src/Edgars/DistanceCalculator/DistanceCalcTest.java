@@ -1,4 +1,4 @@
-package Edgars;
+package Edgars.DistanceCalculator;
 
 public class DistanceCalcTest {
     public static void main(String[] args) {

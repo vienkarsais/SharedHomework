@@ -1,4 +1,4 @@
-package Edgars;
+package Edgars.DistanceCalculator;
 
 public class DistanceCalc {
     private float fuelTank;
