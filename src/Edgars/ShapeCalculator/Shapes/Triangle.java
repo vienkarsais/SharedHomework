@@ -1,9 +1,9 @@
 package Edgars.ShapeCalculator.Shapes;
 
 public class Triangle extends Shape {
-    double sideA;
-    double sideB;
-    double sideC;
+    private double sideA;
+    private double sideB;
+    private double sideC;
 
     public Triangle(double sideA, double sideB, double sideC) {
         this.sideA = sideA;
